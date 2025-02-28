@@ -1,0 +1,1 @@
+pyinstaller Main.spec
