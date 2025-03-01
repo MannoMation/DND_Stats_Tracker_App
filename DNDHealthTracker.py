@@ -1,3 +1,5 @@
+import os
+import sys
 import time
 from tkinter import *
 from tkinter import filedialog, messagebox
@@ -12,6 +14,7 @@ import FrameBuilder
 import AssignDevices
 import InitiativeWindow
 import MessageDevice
+import UpdateApp
 
 
 def NewProject():
@@ -31,6 +34,9 @@ def NewProject():
 def ExitProgram():
     if not IsSaved():
         return
+
+    if str(sys.argv[0].split('\\')[-1]) == "Temp_DND.exe":
+        UpdateApp.rename_exe()
 
     root.destroy()
 
@@ -283,6 +289,22 @@ def UpdateCharacterData(msg):
                 pass
 
 
+def OpenAbout():
+    about_window = Toplevel()  # Create a new window
+    about_window.title("About")
+
+    # Set window size and position
+    about_window.geometry("300x200")
+
+    # Add a label with information about your program
+    label = Label(about_window, text="DND Stats Tracker\nVersion " + UpdateApp.currentVersion.split('v')[1] + "\nCreated by Eric Manno", font=("Arial", 12))
+    label.pack(pady=20)
+
+    # Add a close button
+    close_button = Button(about_window, text="Close", command=about_window.destroy)
+    close_button.pack(pady=10)
+
+
 def Init():
     global btn_last_character
     global btn_next_character
@@ -323,6 +345,10 @@ def Init():
     configure_menu.add_command(label='Set Initiative',
                                command=lambda: InitiativeWindow.create_item_movement_window(characters))
 
+    help_menu = Menu(menu, tearoff=0)
+    menu.add_cascade(label='Help', menu=help_menu)
+    help_menu.add_command(label='About', command=OpenAbout)
+
     btn_last_character = Button(root, text="Last Character", command=lambda: ProgressCharacter(-1))
     btn_last_character.grid(row=0, column=0, columnspan=2, pady=10, padx=5)
     btn_next_character = Button(root, text="Next Character", command=lambda: ProgressCharacter(1))
@@ -331,8 +357,11 @@ def Init():
     no_characters_text = Label(root, text="There are currently no active characters.")
     no_characters_text.grid(row=0, column=0, columnspan=2, pady=10, padx=5)
 
+    UpdateApp.main()
+
     PopulateCharacters()
     mainloop()
+
 
 characters = []
 last_save = []

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e6162a2-9f0b-4deb-9d57-489c3d9a82ce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/UpdateApp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Version.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DND_Stats_Tracker_App.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssignDevices.py" beforeDir="false" afterPath="$PROJECT_DIR$/AssignDevices.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharacterArchive.py" beforeDir="false" afterPath="$PROJECT_DIR$/CharacterArchive.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharacterCreator.py" beforeDir="false" afterPath="$PROJECT_DIR$/CharacterCreator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConfigureCharacters.py" beforeDir="false" afterPath="$PROJECT_DIR$/ConfigureCharacters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DNDHealthTracker.py" beforeDir="false" afterPath="$PROJECT_DIR$/DNDHealthTracker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrameBuilder.py" beforeDir="false" afterPath="$PROJECT_DIR$/FrameBuilder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InitiativeWindow.py" beforeDir="false" afterPath="$PROJECT_DIR$/InitiativeWindow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.spec" beforeDir="false" afterPath="$PROJECT_DIR$/Main.spec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MessageDevice.py" beforeDir="false" afterPath="$PROJECT_DIR$/MessageDevice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Main/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/Main/Analysis-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Main/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/Main/EXE-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Main/Main.pkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Main/PKG-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/Main/PKG-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Main/PYZ-00.pyz" beforeDir="false" afterPath="$PROJECT_DIR$/build/Main/PYZ-00.pyz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Main/PYZ-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/Main/PYZ-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Main/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/Main/base_library.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Main/warn-Main.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/Main/warn-Main.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Main/xref-Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/Main/xref-Main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/Main.exe" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2pSkCl3o50OGjoPKZH05QxlRqr9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.AssignDevices.executor": "Run",
+    "Python.CharacterArchive.executor": "Run",
+    "Python.CharacterCreator.executor": "Run",
+    "Python.DND Health Tracker.executor": "Run",
+    "Python.DNDHealthTracker.executor": "Run",
+    "Python.Main.executor": "Run",
+    "Python.UpdateApp.executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/edm11/Documents/DND Health Tracker/DND_Stats_Tracker_App/Main.py",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\edm11\Documents\DND Health Tracker\App\pythonProject" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Main">
+    <configuration name="DNDHealthTracker" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DNDHealthTracker.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (DND_Stats_Tracker_App)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="UpdateApp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UpdateApp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Main" />
+      <item itemvalue="Python.UpdateApp" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.DNDHealthTracker" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.UpdateApp" />
+        <item itemvalue="Python.DNDHealthTracker" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e6162a2-9f0b-4deb-9d57-489c3d9a82ce" name="Changes" comment="" />
+      <created>1732766739076</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732766739076</updated>
+    </task>
+    <servers />
+  </component>
+</project>

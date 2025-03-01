@@ -4,7 +4,7 @@
 a = Analysis(
     ['Main.py'],
     pathex=[],
-    binaries=[],
+    binaries=[('C:/Users/edm11/AppData/Local/Programs/Python/Python312/python312.dll', '.')],
     datas=[],
     hiddenimports=['serial', 'serial.tools.list_ports'],
     hookspath=[],
@@ -22,7 +22,7 @@ exe = EXE(
     a.binaries,
     a.datas,
     [],
-    name='Main',
+    name='DND_Stats',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,
